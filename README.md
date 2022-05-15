@@ -1,2 +1,2 @@
 # courses-test
-test couces
+test courses
